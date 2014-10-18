@@ -1,7 +1,7 @@
-Heroku buildpack: Python
+Heroku buildpack: Python - Callaborate
 ========================
 
-This is a [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks) for Python apps, powered by [pip](http://www.pip-installer.org/).
+This is a modification of a [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks) for Python apps, powered by [pip](http://www.pip-installer.org/). It includes suport for installing node apps. 
 
 
 Usage
